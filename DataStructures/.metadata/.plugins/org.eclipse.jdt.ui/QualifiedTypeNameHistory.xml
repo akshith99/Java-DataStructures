@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="datastructures.linkedlist.LinkedList"/>
+    <fullyQualifiedTypeName name="datastructures.linkedlist.LinkedList.Node"/>
+    <fullyQualifiedTypeName name="datastructures.doublylinkedlist.DoublyLinkedList"/>
+    <fullyQualifiedTypeName name="datastructures.doublylinkedlist.DoublyLinkedList.Node"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.basic.DragRecognitionSupport.BeforeDrag"/>
+    <fullyQualifiedTypeName name="datastructures.stack.Stack"/>
+    <fullyQualifiedTypeName name="datastructures.stack.Stack.Node"/>
+    <fullyQualifiedTypeName name="datastructures.queue.Queue"/>
+    <fullyQualifiedTypeName name="datastructures.queue.Queue.Node"/>
+    <fullyQualifiedTypeName name="datastructures.binarysearchtree.BinarySearchTree"/>
+    <fullyQualifiedTypeName name="datastructures.binarysearchtree.BinarySearchTree.Node"/>
+    <fullyQualifiedTypeName name="java.lang.StrictMath"/>
+    <fullyQualifiedTypeName name="datastructures.hashtable.HashTable"/>
+    <fullyQualifiedTypeName name="datastructures.hashtable.HashTable.Node"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="datastructures.graph.Graph"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>
